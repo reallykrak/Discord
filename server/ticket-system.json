@@ -1,0 +1,16 @@
+{
+  "config": {
+    "categoryId": null,
+    "supportRoleId": null,
+    "channelId": null,
+    "logChannelId": null,
+    "welcomeMessage": "Destek ekibimiz en kısa sürede size yardımcı olacaktır. Lütfen sorununuzu detaylı bir şekilde açıklayın.",
+    "embedColor": "#0099ff",
+    "ticketCounter": 0,
+    "maxTicketsPerUser": 1,
+    "buttonLabel": "Destek Talebi Oluştur",
+    "ticketTypes": []
+  },
+  "tickets": [],
+  "activeTickets": {}
+}
